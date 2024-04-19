@@ -1,4 +1,4 @@
-/* Replace all data in `.__fb-light-mode` by data in `.__fb-light-mode`.
+/* Replace all data in `.__fb-light-mode` by data in `.__fb-dark-mode`.
  */
 (() => {
   const fbStyle = document.head.querySelectorAll("style")[0].textContent;
