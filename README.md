@@ -2,6 +2,8 @@
 
 Enable dark mode for [Messenger](https://www.messenger.com/).
 
+![Addon logo](https://addons.mozilla.org/user-media/addon_icons/2842/2842098-128.png)
+
 ## built-in
 
 This addon don't add custom dark mode, but uses built-in theme (that can't be turned on without programming knowledge for some reason).
